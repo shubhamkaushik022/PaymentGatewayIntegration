@@ -1,0 +1,61 @@
+body{
+    background-color:white !important;
+    margin: 0;
+    top: 0;
+    overflow: hidden;
+}
+.coins{
+margin: auto;
+position: relative;
+margin-top: 50px;
+height: 350px;
+width:550px;
+}
+.btn{
+    color: black;
+}
+.nav{
+ top: 0;
+  margin-top: 20px;
+}
+#icon{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    border: solid black;
+    border-radius: 100px ;
+}
+.btn{
+    color: black;
+    margin: 10px 7px 14px;
+}
+.blood{
+    text-align: center;
+}
+.carousel {
+    width:640px;
+    height:360px;
+    left: 25%;
+  }
+.info{
+    text-align: center;
+    left: 50px;
+    color: lightcoral;
+}
+.nat{
+    height: 360px;
+}
+h1,h3{
+    font-family: "Girassol";
+
+}
+.sparks{
+    font-family: "vardana";
+    padding-left: 80px;
+    position: absolute;
+    font-size: 200%;
+    padding-top: 10px;
+    color: darkblue;
+}
