@@ -6,7 +6,7 @@
 ## Sparks Foundation Internship Project : Payment Gateway Integration
 
 
-Creat a simple website where payemnt gateway is integrated.
+Create a simple website where payment gateway is integrated.
   
 
 In this project using: HTML 
